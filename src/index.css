@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* :root {
+:root {
   @apply bg-primary text-primary
 }
 
@@ -29,4 +29,4 @@
   --color-text-accent: #2b6cb0;
   --color-bg-input: #edf2f7;
   --color-bg-button: #2b6cb0;
-} */
+}
