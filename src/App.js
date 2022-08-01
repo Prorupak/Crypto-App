@@ -1,9 +1,13 @@
 import React from "react";
+import { Route, Routes } from "react-router-dom";
+import { Login } from "./pages";
 
 function App() {
   return (
     <>
-      <h1 className="underline">Coinbase App</h1>
+      <Routes>
+        <Route path="/" element={<Login />} />
+      </Routes>
     </>
   );
 }
