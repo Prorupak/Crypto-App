@@ -15,19 +15,13 @@
     "react-icons": "^4.3.1",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "@neojp/tailwindcss-important-variant": "^1.0.1",
-    "@tailwindcss/aspect-ratio": "^0.2.0",
-    "@tailwindcss/custom-forms": "^0.2.1",
-    "@tailwindcss/forms": "^0.2.1",
-    "@tailwindcss/jit": "^0.1.1",
-    "@tailwindcss/typography": "^0.3.1",
     "autoprefixer": "^10.4.7",
-    "postcss": "^8.4.14",
     "tailwindcss": "^3.0.24",
-    "tailwindcss-children": "^2.1.0"
+    "twin.macro": "^2.8.2"
   },
   "scripts": {
     "start": "react-scripts start",
